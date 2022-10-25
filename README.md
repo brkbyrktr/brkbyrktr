@@ -1,6 +1,8 @@
+👋 TR --
+<br><br>
+<b>𝑀𝑒𝑟ℎ𝑎𝑏𝑎, 𝑏𝑒𝑛 𝐵𝑢𝑟𝑎𝑘 𝐵𝑎𝑦𝑟𝑎𝑘𝑡𝑎𝑟</b>
+<a href="https://burakbayraktar.ga"><img src="https://burakbayraktar.ga/favicon.ico" width="20" height="20"/></a>
 
-👋 TR -
- <br><br><b>𝑀𝑒𝑟ℎ𝑎𝑏𝑎, 𝑏𝑒𝑛 𝐵𝑢𝑟𝑎𝑘 𝐵𝑎𝑦𝑟𝑎𝑘𝑡𝑎𝑟</b>
 -  19 yaşındayım.
 -  Bilişim sektörü ile ilgilenmekteyim.
 -  C# | HTML | CSS | JS | PHP | ASP.NET eğitimleri aldım ve web tasarımı üzerine çalışıyorum.

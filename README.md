@@ -1,6 +1,7 @@
 
-👋 TR --
--  Merhaba, ben Burak Bayraktar 19 yaşındayım.
+👋 TR -
+ <br><br><b>𝑀𝑒𝑟ℎ𝑎𝑏𝑎, 𝑏𝑒𝑛 𝐵𝑢𝑟𝑎𝑘 𝐵𝑎𝑦𝑟𝑎𝑘𝑡𝑎𝑟</b>
+-  19 yaşındayım.
 -  Bilişim sektörü ile ilgilenmekteyim.
 -  C# | HTML | CSS | JS | PHP | ASP.NET eğitimleri aldım ve web tasarımı üzerine çalışıyorum.
 -  Kendime ait bir web sitem var. Bu web sitesinde kendi kurduğum Bayraktar Radyo'nun yayınına yer vermekteyim.

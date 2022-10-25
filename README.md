@@ -17,20 +17,6 @@
 
 <hr>
 
-👋 ENG --
-- Hello, I'm Burak Bayraktar, 19 years old.
-- I am interested in the IT industry.
-- C# | HTML | CSS | JS | PHP | I took ASP.NET trainings and I am working on web design.
-
-- I have my own website. On this website, I include the broadcast of Bayraktar Radio, which I founded.
-
-- I continue my education in the field of Cyber Security at Beykoz University.
-
-<b style="font-family:Verdana"> How to reach me: 4800bayraktar@gmail.com & burakbayraktar@ogrenci.beykoz.edu.tr </b>
-
-
-<hr>
-
 👋 RU --
 - Здравствуйте, я Бурак Байрактар, 19 лет.
 - Меня интересует IT-индустрия.

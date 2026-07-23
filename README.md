@@ -6,12 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=900&lines=Full+Stack+Web+Developer;Laravel+%7C+PHP+%7C+JavaScript+Developer;Cyber+Security+Graduate;REST+API+%26+System+Architecture;Linux+Server+Administrator;AI-Powered+Software+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=blue"/>
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=yellow"/>
-</p>
-
 </div>
 
 ---

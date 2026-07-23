@@ -178,11 +178,11 @@ Currently interested in:
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=brkbyrktr&show_icons=true&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=brkbyrktr&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=brkbyrktr&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -192,7 +192,7 @@ Currently interested in:
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&column=7&no-frame=true)
+![](https://github-profile-trophy.vercel.app/?username=brkbyrktr&theme=algolia&column=7&no-frame=true)
 
 </div>
 
@@ -202,7 +202,7 @@ Currently interested in:
 
 <div align="center">
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
+![](https://github-readme-activity-graph.vercel.app/graph?username=brkbyrktr&theme=tokyo-night)
 
 </div>
 
